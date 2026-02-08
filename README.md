@@ -1,6 +1,5 @@
  <h1>Taylor's Headstone Cleaning Services</h1>
   <p>Restoring dignity and preserving memories</p>
-</header>
 
 <nav>
   <a href="#services">Services</a>
