@@ -1,7 +1,4 @@
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Respectful Headstone Cleaning Services</h1>
+ <h1>Taylor's Headstone Cleaning Services</h1>
   <p>Restoring dignity and preserving memories</p>
 </header>
 
