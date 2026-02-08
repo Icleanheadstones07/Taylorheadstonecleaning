@@ -1,10 +1,3 @@
-index.html
-style.css
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Professional Headstone Cleaning</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -25,7 +18,6 @@ style.css
   <ul>
     <li>Gentle headstone cleaning</li>
     <li>Moss & lichen removal</li>
-    <li>Grave marker restoration</li>
     <li>Before & after photo documentation</li>
   </ul>
 </section>
@@ -40,54 +32,7 @@ style.css
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: yourbusiness@email.com</p>
-  <p>Phone: (555) 123-4567</p>
-  <p>Serving your local area</p>
+  <p>Email: taylorheadstonecleaning@gmail.com</p>
+  <p>Phone: (706) 315-3193</p>
+  <p>Serving: Covington Ga,Dublin Ga,Macon GA,Milledgeville Ga,Perry Ga,Thomaston Ga</p>
 </section>
-
-<footer>
-  <p>© 2026 Your Business Name</p>
-</footer>
-
-</body>
-</html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background: #f5f5f5;
-  color: #333;
-}
-
-header {
-  background: #2f4f4f;
-  color: white;
-  padding: 2rem;
-  text-align: center;
-}
-
-nav {
-  background: #444;
-  text-align: center;
-  padding: 1rem;
-}
-
-nav a {
-  color: white;
-  margin: 0 1rem;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-section {
-  padding: 2rem;
-  background: white;
-  margin: 1rem auto;
-  max-width: 800px;
-}
-
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #2f4f4f;
-  color: white;
-}
